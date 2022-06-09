@@ -44,7 +44,7 @@ const Home: FC = () => {
 							<div className="flex items-center">
 								<BookOpenIcon className="w-8 h-8 text-gray-500" />
 								<div className="ml-4 text-lg leading-7 font-semibold">
-									<a href="https://laracasts.com" className="underline text-gray-900 dark:text-white">
+									<a href="https://wagmi.sh" className="underline text-gray-900 dark:text-white">
 										wagmi Docs
 									</a>
 								</div>
