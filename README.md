@@ -2,7 +2,7 @@
 
 > The template I use to kickstart all my web3 apps.
 
-This starter kit is composed of Next.js and Tailwind CSS, with RainbowKit, ethers, & wagmi for all your web3 needs. It uses Typescript and an opinionated directory structure for maximum dev confy-ness.
+This starter kit is composed of Next.js and Tailwind CSS, with ConnectKit, ethers, & wagmi for all your web3 needs. It uses Typescript and an opinionated directory structure for maximum dev confy-ness.
 
 ## Getting Started
 
@@ -25,11 +25,11 @@ To learn more about the components of this kit, take a look at the following res
 -   [Tailwind CSS Documentation](https://tailwindcss.com/docs/) - learn about Tailwind, and browse through the included classes.
 -   [Ethers Documentation](https://docs.ethers.io/v5/) - learn about Ethers features and API.
 -   [wagmi Documentation](https://wagmi.sh/) - learn about wagmi features and API.
--   [RainbowKit Documentation](https://www.rainbowkit.com/docs/introduction) - learn about RainbowKit's features and API.
+-   [ConnectKit Documentation](https://docs.family.co/connectkit) - learn about ConnectKit's features and API.
 
 ## Deployment
 
-The easiest way to deploy your Next.js app is to use [Vercel](https://vercel.com/new?utm_medium=default-template&filter=next.js), from the creators of Next.js.
+The easiest way to deploy your Next.js app is to use [Vercel](https://vercel.com/new?utm_medium=m1guelpf-dapp-template&filter=next.js), from the creators of Next.js.
 
 Check out the [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 

@@ -1,15 +1,15 @@
 import { FC } from 'react'
 import { useAccount } from 'wagmi'
-import { ConnectButton } from '@rainbow-me/rainbowkit'
+import { ConnectKitButton } from 'connectkit'
 
 type Visibility = 'always' | 'connected' | 'not_connected'
 
 const ConnectWallet: FC<{ show?: Visibility }> = ({ show = 'always' }) => {
-	const { data: account } = useAccount()
+	const { isConnected } = useAccount()
 
-	if ((show == 'connected' && !account?.address) || (show == 'not_connected' && account?.address)) return null
+	if ((show == 'connected' && !isConnected) || (show == 'not_connected' && isConnected)) return null
 
-	return <ConnectButton />
+	return <ConnectKitButton />
 }
 
 export default ConnectWallet
