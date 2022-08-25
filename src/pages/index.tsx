@@ -23,7 +23,7 @@ const Home: FC = () => {
 								<BookOpenIcon className="w-8 h-8 text-gray-500" />
 								<div className="ml-4 text-lg leading-7 font-semibold">
 									<a
-										href="https://laravel.com/docs"
+										href="https://nextjs.org/docs"
 										className="underline text-gray-900 dark:text-white"
 									>
 										Next.js Docs
