@@ -1,3 +1,4 @@
+'use client'
 import { FC } from 'react'
 import { APP_NAME } from '@/lib/consts'
 import ConnectWallet from '@/components/ConnectWallet'
@@ -115,8 +116,8 @@ const Home: FC = () => {
 										ConnectKit
 									</a>
 									,{' '}
-									<a href="https://ethers.org" className="underline" target="_blank" rel="noreferrer">
-										ethers
+									<a href="https://viem.sh" className="underline" target="_blank" rel="noreferrer">
+										viem
 									</a>{' '}
 									&amp;{' '}
 									<a href="https://wagmi.sh" className="underline" target="_blank" rel="noreferrer">
