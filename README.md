@@ -2,7 +2,7 @@
 
 > The template I use to kickstart all my web3 apps.
 
-This starter kit is composed of Next.js and Tailwind CSS, with ConnectKit, ethers, & wagmi for all your web3 needs. It uses Typescript and an opinionated directory structure for maximum dev confy-ness.
+This starter kit is composed of Next.js and Tailwind CSS, with ConnectKit, viem, & wagmi for all your web3 needs. It uses Typescript and an opinionated directory structure for maximum dev confy-ness.
 
 ## Getting Started
 
@@ -23,7 +23,7 @@ To learn more about the components of this kit, take a look at the following res
 -   [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
 -   [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 -   [Tailwind CSS Documentation](https://tailwindcss.com/docs/) - learn about Tailwind, and browse through the included classes.
--   [Ethers Documentation](https://docs.ethers.io/v5/) - learn about Ethers features and API.
+-   [viem Documentation](https://viem.sh/) - learn about viem features and API.
 -   [wagmi Documentation](https://wagmi.sh/) - learn about wagmi features and API.
 -   [ConnectKit Documentation](https://docs.family.co/connectkit) - learn about ConnectKit's features and API.
 
