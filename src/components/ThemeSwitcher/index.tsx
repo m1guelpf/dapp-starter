@@ -1,3 +1,4 @@
+'use client'
 import { useCallback } from 'react'
 import { useTheme } from 'next-themes'
 import { MoonIcon, SunIcon } from '@heroicons/react/outline'
